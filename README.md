@@ -1,5 +1,5 @@
 # WPF_Application
-A WPF application created for my midterm assignment using C#.NET technologies. 
+A WPF application created for my midterm assignment using C# and .NET technologies. 
 
 It contains 4 pages.
 
