@@ -19,6 +19,6 @@ The first expander control contains a slider and its label.
 The second expander control contains an image. When the mouse is not hovering over the image, it’s height matches exactly that of the expander’s grid height, regardless of the grid width. When the mouse is hovering over the image, it’s width matches exactly that of the expander’s grid width, regardless of the grid height.
 
 The fourth page contains two buttons that open a parent and a child window (WPF forms).
-When the user clicks the button to open a child Window, 
-▪ If a parent window does not exist, show an error message; and
-▪ If a parent and a child window already exist show an error message.
+When the user clicks the button to open a child Window,
+- If a parent window does not exist, show an error message; and
+- If a parent and a child window already exist show an error message.
